@@ -1,0 +1,16 @@
+div.ecwid-categories{display:block}
+div.ecwid-AddToBagButton-up,div.ecwid-AddToBagButton-up-hovering,div.ecwid-AddToBagButton-down,div.ecwid-AddToBagButton-down-hovering,div.ecwid-AddToBagButton-up:lang(fr),div.ecwid-AddToBagButton-up-hovering:lang(fr),div.ecwid-AddToBagButton-down:lang(fr),div.ecwid-AddToBagButton-down-hovering:lang(fr){background-image:url("https://cdn0.e-shopdesigner.com/archive-bananarods-7136300/add_to_bag_v1.png")}
+div.ecwid-productBrowser-cart-checkoutButton-up,div.ecwid-productBrowser-cart-checkoutButton-up-hovering,div.ecwid-productBrowser-cart-checkoutButton-down,div.ecwid-productBrowser-cart-checkoutButton-down-hovering,div.ecwid-productBrowser-cart-checkoutButton-up:lang(fr),div.ecwid-productBrowser-cart-checkoutButton-up-hovering:lang(fr),div.ecwid-productBrowser-cart-checkoutButton-down:lang(fr),div.ecwid-productBrowser-cart-checkoutButton-down-hovering:lang(fr){background-image:url("https://cdn0.e-shopdesigner.com/archive-bananarods-7136300/checkout_v1.png")}
+div.ecwid-ContinueShoppingButton-up,div.ecwid-ContinueShoppingButton-up-hovering,div.ecwid-ContinueShoppingButton-down,div.ecwid-ContinueShoppingButton-down-hovering,div.ecwid-ContinueShoppingButton-up:lang(fr),div.ecwid-ContinueShoppingButton-up-hovering:lang(fr),div.ecwid-ContinueShoppingButton-down:lang(fr),div.ecwid-ContinueShoppingButton-down-hovering:lang(fr){background-image:url("https://cdn0.e-shopdesigner.com/archive-bananarods-7136300/continue_shopping_v1.png")}
+div.ecwid-Checkout-placeOrderButton-up,div.ecwid-Checkout-placeOrderButton-up-hovering,div.ecwid-Checkout-placeOrderButton-down,div.ecwid-Checkout-placeOrderButton-down-hovering,div.ecwid-Checkout-placeOrderButton-up:lang(fr),div.ecwid-Checkout-placeOrderButton-up-hovering:lang(fr),div.ecwid-Checkout-placeOrderButton-down:lang(fr),div.ecwid-Checkout-placeOrderButton-down-hovering:lang(fr){background-image:url("https://cdn0.e-shopdesigner.com/archive-bananarods-7136300/place_order_v1.png")}
+div.ecwid-productBrowser-details-inTheBag,div.ecwid-productBrowser-details-inTheBag:lang(fr){background-image:url("https://cdn0.e-shopdesigner.com/archive-bananarods-7136300/bag_v1.png")}
+button.ecwid-AccentedButton{background:none;background-color:none;background-image:none;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;filter:none;outline:none;height:auto}
+button.ecwid-AccentedButton:hover,button.ecwid-AccentedButton:active{background:none;background-color:none;background-image:none;box-shadow:none;-moz-box-shadow:none;-webkit-box-shadow:none;filter:none;outline:none;height:auto}
+button.ecwid-AccentedButton span{color:inherit}
+button.ecwid-AccentedButton{-webkit-border-radius:3;-moz-border-radius:3;border-radius:3px;font-family:Arial;color:#ffffff;font-size:16px;background:#e2af4b;padding:10px 20px 10px 20px;text-decoration:none}
+button.ecwid-AccentedButton:hover{background:#b88f3d;text-decoration:none}
+div.ecwid-Checkout-BreadCrumbs-link-current{border-bottom-color:#e2af4b}
+div.ecwid-Checkout-BreadCrumbs-point-current{background-image:url("https://cdn0.e-shopdesigner.com/archive-bananarods-7136300/checkout_point_current.png")}
+@media (max-width: 450px){div.simcase-CurrencyConverter-block select{width:160px;margin-left:0 !important}
+.simcase-CurrencyConverter-block{text-align:left}
+}
