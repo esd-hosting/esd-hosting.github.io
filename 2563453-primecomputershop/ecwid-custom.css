@@ -1,0 +1,396 @@
+#generated-by-eshop-designer-v1-6{theme:bootstrap;main-colour:#ffffff;icon-colour:#404040;buy-now-colour:#464646;image-url-base:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop");lang:de;langs:de}
+#eshop-designer-info-main-colour-1{color:#ffffff}
+#eshop-designer-info-main-colour-2{color:#E6B219}
+#eshop-designer-info-main-colour-3{color:#802420}
+#eshop-designer-info-main-colour-4{color:#387038}
+#eshop-designer-info-main-colour-5{color:#192BE6}
+.ecwid ul,.ecwid ol,.ecwid dl,.ecwid ul li,.ecwid ol li,.ecwid dl dt,.ecwid dl dd,.ecwid hr,.ecwid blockquote{color:#d6d6d6}
+.ecwid h1,.ecwid h2,.ecwid h3,.ecwid h4,.ecwid h5,.ecwid h6{color:#333}
+.ecwid p,.ecwid sup,.ecwid sub,.ecwid address{color:#333}
+input.gwt-TextBox,input.gwt-PasswordTextBox,textarea.gwt-TextArea,input.gwt-DateBox{border-width:2px}
+.eshop-main-background{background-color:white}
+.ecwid{color:#333}
+.ecwid-EcwidHintingLink{color:#ffffff}
+div.ecwid-categoriesMenuBar td.gwt-MenuItem-selected span.ecwid-categories-category,div.ecwid-categoriesMenuBar td.gwt-MenuItem-current span.ecwid-categories-category,td.ecwid-categories-vertical-table-cell-selected span.ecwid-categories-category,table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected span.ecwid-categories-category{color:#ffffff}
+div.ecwid-categories-MenuBarPopup div.ecwid-categoriesMenuBar span.ecwid-categories-loading{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ajax-loader.gif") no-repeat 0px 5px}
+div.ecwid-categoriesMenuBar-vertical td.subMenuIcon{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_arrow-subcategories-menu.gif") no-repeat center center}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabTopLeft{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_tab.png") no-repeat}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabTopCenter{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_tab.png") repeat-x -11px 0}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabTopRight{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_tab.png") no-repeat -589px 0}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabMiddleLeft{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_tab.png") repeat-y 0 -11px}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabMiddleRight{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_tab.png") repeat-y -589px -11px}
+div.ecwid-minicart{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_minicart.png") no-repeat}
+div.ecwid-minicart-dropTargetEngage{background-position:bottom right}
+div.ecwid-minicart-caption{color:#f0f0f0}
+div.ecwid-minicart-link *{color:#ffffff}
+div.ecwid-minicart-dropTargetEngage span.ecwid-minicart-label-text{background-color:#ffe8a3}
+div.ecwid-minicart-mini-rollover{border:solid 1px #ffffff;background:white}
+.ecwid-minicart-mini-count{color:#ffffff}
+.ecwid a,.ecwid a:active,.ecwid a:visited{color:#ffffff}
+button.gwt-Button,#wrapper button.gwt-Button{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_back_normal.gif") repeat-x;color:#ffffff}
+button.gwt-Button:active,#wrapper button.gwt-Button:active{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_back_on.gif") repeat-x}
+button.gwt-Button[disabled],button.gwt-Button[disabled]:active,#wrapper button.gwt-Button[disabled],#wrapper button.gwt-Button[disabled]:active{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_back_normal.gif") repeat-x}
+input.ecwid-DateBox-formatError{border:solid 2px #ad0900}
+div.gwt-SuggestBoxPopup .item-selected{background-color:#2f3dda}
+div.ecwid-productBrowser-head{color:#d6d6d6}
+div.ecwid-note{color:#d6d6d6}
+div.ecwid-form{background-color:#ffffff}
+label.ecwid-fieldLabel{color:#d6d6d6}
+div.ecwid-productBrowser-categoryPath{color:#d6d6d6}
+div.ecwid-productBrowser-categoryPath a,div.ecwid-productBrowser-categoryPath a:active,div.ecwid-productBrowser-categoryPath a:visited{color:#ffffff}
+div.ecwid-productBrowser-productNameLink a,div.ecwid-productBrowser-productNameLink a:active,div.ecwid-productBrowser-productNameLink a:visited{color:#d6d6d6}
+div.ecwid-productBrowser-sku{color:#d6d6d6}
+div.ecwid-productBrowser-price{color:#a90d04}
+div.ecwid-results-topPanel div.ecwid-results-topPanel-viewAsPanel-link{color:#ffffff}
+div.ecwid-pager{color:#d6d6d6}
+div.ecwid-pager span.ecwid-pager-link-enabled{color:#ffffff}
+div.ecwid-pager span.ecwid-pager-link-disabled{color:#d6d6d6}
+div.ecwid-AddressForm-secureLockIcon{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_lock.gif") no-repeat}
+div.ecwid-AddressForm-SSLencryptedPopup{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_SSLencrypted.png") no-repeat}
+div.ecwid-AddressBook-addButton{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_addNewAddress.gif") no-repeat;color:#ffffff}
+div.ecwid-AddressBook-item{background:#ffffff}
+td.ecwid-PseudoButton-left{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_pseudo_button_left.gif") no-repeat 1px 0px}
+td.ecwid-PseudoButton-center{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_pseudo_button_center.gif") repeat-x}
+td.ecwid-PseudoButton-right{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_pseudo_button_right.gif") no-repeat -1px 0px}
+div.ecwid-fieldEnvelope-label{color:#ad0900}
+table.ecwid-fieldEnvelope-error div.ecwid-fieldEnvelope-around{border:solid 2px #ad0900}
+div.ecwid-noimage{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_noimage.gif") no-repeat scroll 0 0}
+div.ecwid-noimage-small{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_noimage-small.gif") no-repeat}
+div.ecwid-EgoodsComponent-downloadLabel{color:#ffffff}
+div.ecwid-EgoodsComponent a,div.ecwid-EgoodsComponent a:active,div.ecwid-EgoodsComponent a:visited{color:#ffffff}
+span.ecwid-EgoodsComponent-expires span{color:#3cb43c}
+span.ecwid-EgoodsComponent-expired{color:#b2271f}
+div.ecwid-DownloadError-head{color:#ffffff}
+td.ecwid-productBrowser-warning-icon{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_iconWarning.gif") no-repeat top right}
+div.ecwid-overlay-png{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_transparent_black.png") repeat scroll 0 0;filter:expression(fixPNG_crop(this))}
+div.ecwid-loadingIndicator-overlay{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_transparent_white.png") repeat scroll 0 0}
+div.ecwid-loadingIndicator-cursor{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_spacer.gif") repeat scroll 0 0}
+button.ecwid-popup-closeButton{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_popup_close.png") no-repeat center center}
+div.ecwid-MessageBox-msg-info{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_msg_info.gif") no-repeat 0px 0px}
+div.ecwid-MessageBox-msg-question{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_msg_quest.gif") no-repeat 0px 0px}
+div.ecwid-MessageBox-msg-warning{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_msg_warning.gif") no-repeat 0px 0px}
+div.ecwid-MessageBox-msg-error{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_msg_error.gif") no-repeat 0px 0px}
+div.ecwid-ServiceMessage-container div.ecwid-ShadowedPopupPanel-content,div.ecwid-ShadowedPopupPanel-content{background-color:#ffffff}
+button.ecwid-ServiceMessage-closeButton{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_connection-error-close.gif") no-repeat center center}
+div.ecwid-DisappearingMessage-content span{color:#1c5f1c}
+td.ecwid-DateRangeBox-icon{background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_arrow-south.gif");background-repeat:no-repeat;background-position:center}
+button.ecwid-DateRangePopup-calendarIcon{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_calendar.png") no-repeat center center}
+table.ecwid-DateRangePopup-PresetsPanel a,table.ecwid-DateRangePopup-PresetsPanel a:visited,table.ecwid-DateRangePopup-PresetsPanel a:active{color:#ffffff}
+div.dateBoxPopup div.ecwid-MonthSelector-monthPrev{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_month_prev.gif") no-repeat center center}
+div.dateBoxPopup div.ecwid-MonthSelector-monthNext{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_month_next.gif") no-repeat center center}
+div.dateBoxPopup div.ecwid-MonthSelector-mouseover div.ecwid-MonthSelector-yearPrev{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_year_prev.gif") no-repeat center center}
+div.dateBoxPopup div.ecwid-MonthSelector-mouseover div.ecwid-MonthSelector-yearNext{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_year_next.gif") no-repeat center center}
+div.dateBoxPopup div.ecwid-MonthSelector-mouseover td.ecwid-MonthSelector-inversable{background-color:#181f62}
+div.dateBoxPopup td.datePickerDayIsToday{background-color:#ffffff}
+div.dateBoxPopup td.datePickerDayIsValue{background-color:#ffffff}
+div.dateBoxPopup td.datePickerDayIsHighlighted{background-color:#ffffff}
+table.ecwid-gallery-thumbnail{border:3px solid #ffffff}
+button.ecwid-gallery-prevButton{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gallery_prev.gif") no-repeat center center}
+button.ecwid-gallery-prevButton-disabled{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gallery_prev_off.gif") no-repeat center center}
+button.ecwid-gallery-nextButton{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gallery_next.gif") no-repeat center center}
+button.ecwid-gallery-nextButton-disabled{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gallery_next_off.gif") no-repeat center center}
+button.ecwid-gallery-prevArrow{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gallery_prev_arrow.gif") no-repeat center center}
+button.ecwid-gallery-nextArrow{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gallery_next_arrow.gif") no-repeat center center}
+div.ecwid-gallery-imagePanel-navleft{cursor:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gallery_prev.cur"),pointer}
+div.ecwid-gallery-imagePanel-navright{cursor:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gallery_next.cur"),pointer}
+img.ecwid-gallery-imagePanel-zoomButton-image{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gallery_zoom_button.png") no-repeat center center}
+td.ecwid-Invoice-cell{background-color:#ffffff}
+div.ecwid-Invoice-cell-title{background-color:#f0f0f0}
+td.ecwid-Invoice-edgeCell{background-color:#ffffff}
+td.ecwid-Invoice-Header-OrderId{color:#d6d6d6}
+td.ecwid-Invoice-Header-OrderId span{color:#ffffff}
+td.ecwid-Invoice-Header-timestamp{color:#d6d6d6}
+div.ecwid-Invoice-Summary-value-price{color:#a90d04}
+div.ecwid-Invoice-productName,div.ecwid-Invoice-productName a,div.ecwid-Invoice-productName a:active,div.ecwid-Invoice-productName a:visited{color:#ffffff}
+div.ecwid-Invoice-productPrice{color:#d6d6d6}
+div.ecwid-Invoice-footer-placeOrder div.gwt-Label,td.ecwid-Invoice-footer-orderConfirmation-text{color:#d6d6d6}
+td.ecwid-Invoice-footer-orderConfirmation-text a,td.ecwid-Invoice-footer-orderConfirmation-text a:active,td.ecwid-Invoice-footer-orderConfirmation-text a:visited{color:#ffffff}
+div.ecwid-PrintableInvoice-header-invoiceLabel{color:#d6d6d6}
+div.ecwid-PrintableInvoice-header div.ecwid-Person{color:#d6d6d6}
+div.ecwid-PrintableInvoice-header-email,div.ecwid-PrintableInvoice-header-url{color:#ffffff}
+div.ecwid-PrintableInvoice-customer-email{color:#ffffff}
+div.ecwid-PrintableInvoice div.ecwid-Invoice{border:solid 2px #ffffff}
+div.ecwid-PrintableInvoice div.ecwid-Invoice-cell-title{border-top:2px solid #f0f0f0;border-bottom:2px solid #f0f0f0;color:#f0f0f0}
+div.ecwid-PrintableInvoice-thankYouForOrder{color:#d6d6d6;border-top:1px solid #ffffff}
+div.ecwid-productBrowser-details-inStockLabel{color:#126812}
+div.ecwid-productBrowser-details-outOfStockLabel{color:#a90d04}
+div.ecwid-productBrowser-details-outOfStockLabel-allInBag{color:#d6d6d6}
+span.ecwid-productBrowser-details-taxValue{color:#353535}
+td.ecwid-productBrowser-details-datePicker-button button{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_calendar.png") no-repeat center center}
+.ecwid-productBrowser-details-optionUploadFiles-filesize{color:#d6d6d6}
+div.ecwid-productBrowser-details-optionUploadFiles-removeButton{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_remove_file.gif") no-repeat center center}
+form.ecwid-uploadPopup-mainPanel{color:#d6d6d6}
+table.ecwid-uploadPopup-mainPanel-fileListPanel{color:#d6d6d6;background-color:#ffffff;color:#d6d6d6}
+button.ecwid-uploadPopup-addButton{background:url("icons/bootstrap_404040_boxAdd.gif") no-repeat scroll center center transparent}
+button.ecwid-uploadPopup-addButton-disabled{background:url("icons/bootstrap_boxAddDisabled.gif") no-repeat scroll center center transparent}
+button.ecwid-uploadPopup-deleteButton{background:url("icons/bootstrap_404040_boxDelete.gif") no-repeat scroll center center transparent}
+button.ecwid-uploadPopup-deleteButton-disabled{background:url("icons/bootstrap_boxDeleteDisabled.gif") no-repeat scroll center center transparent}
+div.ecwid-productBrowser-details-inTheBag{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_bag.png") no-repeat left center;filter:expression(fixPNG_crop(this))}
+div.ecwid-productBrowser-details-inTheBag div{color:#ffffff}
+div.ecwid-AddToBagButton-up,div.ecwid-AddToBagButton-up-hovering,div.ecwid-AddToBagButton-ie6-up,div.ecwid-AddToBagButton-ie6-up-hovering{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_add_to_bag.png") no-repeat top center}
+div.ecwid-AddToBagButton-down,div.ecwid-AddToBagButton-down-hovering,div.ecwid-AddToBagButton-ie6-down,div.ecwid-AddToBagButton-ie6-down-hovering{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_add_to_bag.png") no-repeat bottom center}
+div.ecwid-AddToBagButton-ie6-up,div.ecwid-AddToBagButton-ie6-up-hovering,div.ecwid-AddToBagButton-ie6-down,div.ecwid-AddToBagButton-ie6-down-hovering{background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_add_to_bag.gif")}
+div.ecwid-ContinueShoppingButton-up,div.ecwid-ContinueShoppingButton-up-hovering,div.ecwid-ContinueShoppingButton-ie6-up,div.ecwid-ContinueShoppingButton-ie6-up-hovering{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_continue_shopping.png") no-repeat top center}
+div.ecwid-ContinueShoppingButton-down,div.ecwid-ContinueShoppingButton-down-hovering,div.ecwid-ContinueShoppingButton-ie6-down,div.ecwid-ContinueShoppingButton-ie6-down-hovering{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_continue_shopping.png") no-repeat bottom center}
+div.ecwid-ContinueShoppingButton-ie6-up,div.ecwid-ContinueShoppingButton-ie6-up-hovering,div.ecwid-ContinueShoppingButton-ie6-down,div.ecwid-ContinueShoppingButton-ie6-down-hovering{background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_continue_shopping.gif")}
+div.ecwid-productBrowser-details-GalleryPanel-imageContainer{border:solid 2px #ffffff}
+div.ecwid-productBrowser-productsGrid-productTopFragment-inTheBag div.ecwid-productBrowser-productsGrid-inTheBagTick{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_tick.png") no-repeat center center;filter:expression(fixPNG(this))}
+div.ecwid-productBrowser-productsList-inTheBagTick{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_tick.png") no-repeat center center;filter:expression(fixPNG_crop(this))}
+td.ecwid-productBrowser-productsTable-cell{border:solid 1px #ffffff}
+div.ecwid-productBrowser-productsTable-inTheBagTick{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_tick.png") no-repeat center center;filter:expression(fixPNG_crop(this))}
+div.ecwid-productBrowser-productsTable-addToBagLink{color:#ffffff}
+tr.ecwid-productBrowser-cart-itemsTable-row-selected,td.ecwid-productBrowser-cart-itemsTable-cell-selected{background-color:#ffffff}
+div.ecwid-productBrowser-cart div.ecwid-productBrowser-price{color:#d6d6d6}
+div.ecwid-productBrowser-cart-removeItemButton{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_remove_item.gif") no-repeat center center}
+div.ecwid-productBrowser-cart-subtotalAmount,div.ecwid-productBrowser-cart-shippingAmount,div.ecwid-productBrowser-cart-taxAmount{color:#d6d6d6}
+div.ecwid-productBrowser-cart-totalAmount{color:#a90d04}
+div.ecwid-productBrowser-cart-shippingAmount-waiting{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ajax-loader.gif") no-repeat 0px 2px}
+div.ecwid-productBrowser-cart-asterisk{color:#ffffff}
+div.ecwid-productBrowser-cart-estimationNote span{color:#ffffff}
+div.ecwid-productBrowser-cart-checkoutButton-up,div.ecwid-productBrowser-cart-checkoutButton-up-hovering,div.ecwid-productBrowser-cart-checkoutButton-ie6-up,div.ecwid-productBrowser-cart-checkoutButton-ie6-up-hovering{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_checkout.png") no-repeat top center}
+div.ecwid-productBrowser-cart-checkoutButton-down,div.ecwid-productBrowser-cart-checkoutButton-down-hovering,div.ecwid-productBrowser-cart-checkoutButton-ie6-down,div.ecwid-productBrowser-cart-checkoutButton-ie6-down-hovering{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_checkout.png") no-repeat bottom center}
+div.ecwid-productBrowser-cart-checkoutButton-ie6-up,div.ecwid-productBrowser-cart-checkoutButton-ie6-up-hovering,div.ecwid-productBrowser-cart-checkoutButton-ie6-down,div.ecwid-productBrowser-cart-checkoutButton-ie6-down-hovering{background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_checkout.gif")}
+div.ecwid-productBrowser-cart-chooseLocationPopup label.ecwid-fieldLabel{color:#ffffff}
+div.ecwid-productBrowser-cart-chooseLocationPopup-deliveryMethodLabel{color:#ffffff}
+div.ecwid-productBrowser-cart-chooseLocationPopup span.ecwid-shippingOption{color:#d6d6d6}
+div.ecwid-productBrowser-cart-chooseLocationPopup span.ecwid-shippingOption-rate{color:#710e09}
+div.ecwid-Checkout-QIWI-payment-logo{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_QIWIlogo_small.png") no-repeat transparent}
+div.ecwid-Checkout-QIWI-phone-icon{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_phone.png") no-repeat transparent}
+div.ecwid-Checkout-QIWI-plus-seven{color:#ffffff}
+div.ecwid-Checkout-blockTitle,table.ecwid-Checkout-blockTitle div.gwt-Label,table.ecwid-Checkout-blockTitle div.gwt-HTML{color:#ffffff}
+div.ecwid-Checkout-ShippingAddress-top{background-color:#ffffff}
+div.ecwid-PaymentMethodDetailsBlock-fields div.gwt-Label{color:#d6d6d6}
+div.ecwid-PaymentMethodExtraDetailsBlockIDEALBanks-panel{background-color:#ffffff}
+div.ecwid-PaymentMethodExtraDetailsBlockIDEALBanksLbl-over{color:#ffffff}
+img.ecwid-PaymentMethodExtraDetailsBlockIDEALBanksImg-over{border:1px solid #ffffff}
+img.ecwid-PaymentMethodExtraDetailsBlockIDEALBanksImg-selected{border:4px solid #ffffff}
+div.ecwid-Checkout-placeOrderButton-up,div.ecwid-Checkout-placeOrderButton-up-hovering,div.ecwid-Checkout-placeOrderButton-ie6-up,div.ecwid-Checkout-placeOrderButton-ie6-up-hovering{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_place_order.png") no-repeat top center}
+div.ecwid-Checkout-placeOrderButton-down,div.ecwid-Checkout-placeOrderButton-down-hovering,div.ecwid-Checkout-placeOrderButton-ie6-down,div.ecwid-Checkout-placeOrderButton-ie6-down-hovering{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_place_order.png") no-repeat bottom center}
+div.ecwid-Checkout-placeOrderButton-ie6-up,div.ecwid-Checkout-placeOrderButton-ie6-up-hovering,div.ecwid-Checkout-placeOrderButton-ie6-down,div.ecwid-Checkout-placeOrderButton-ie6-down-hovering{background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_place_order.gif")}
+div.ecwid-Checkout-BreadCrumbs-link{color:#ffffff}
+div.ecwid-Checkout-BreadCrumbs-link-current{color:#ffffff;border-bottom:3px solid #ffffff}
+div.ecwid-Checkout-BreadCrumbs-link-visited{color:#ffffff}
+div.ecwid-Checkout-BreadCrumbs-point{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_checkout_point_not_visited.png") no-repeat;filter:expression(fixPNG_crop(this))}
+div.ecwid-Checkout-BreadCrumbs-point-visited{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_checkout_point_visited.png") no-repeat;filter:expression(fixPNG_crop(this))}
+div.ecwid-Checkout-BreadCrumbs-point-current{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_checkout_point_current.png") no-repeat;filter:expression(fixPNG_crop(this))}
+div.ecwid-Checkout-BreadCrumbs-section{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_checkout_section_not_visited.gif") repeat-x}
+div.ecwid-Checkout-BreadCrumbs-section-visited{background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ffffff_checkout_section_visited.gif") repeat-x}
+div.ecwid-Orders-EmptyList{background-color:#ffffff}
+table.ecwid-OrdersList-OrderBox{border:solid 1px #ffffff}
+td.ecwid-OrdersList-OrderBox-header{background-color:#ffffff}
+td.ecwid-OrdersList-OrderBox-header-orderdescr{color:#d6d6d6}
+td.ecwid-OrdersList-OrderBox-header-orderdescr span{color:#ffffff}
+td.ecwid-OrdersList-OrderBox-cell{border:solid 1px #ffffff}
+td.ecwid-OrdersList-OrderBox-price{color:#ffffff}
+div.ecwid-OrdersList-OrderBox-product{color:#d6d6d6}
+div.ecwid-OrdersList-OrderBox-product a,div.ecwid-OrdersList-OrderBox-product a:active,div.ecwid-OrdersList-OrderBox-product a:visited{color:#d6d6d6}
+div.ecwid-OrdersList-OrderBox-status span{color:#d6d6d6}
+td.ecwid-OrdersList-OrderBox-totals-price{color:#ffffff}
+div.ecwid-MaskableWidget .ecwid-animask{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_loadingAnimation.gif") center no-repeat}
+div.ecwid-maintenance-staff-message{color:#d6d6d6}
+td.ecwid-SharePopup-header-center div{color:#ffffff}
+div.ecwid-SharePopup-checkboxes span.gwt-CheckBox label span{color:#ffffff}
+input.ecwid-FriendsList-searchBox{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_minisearch.gif") no-repeat right center}
+div.ecwid-FriendsList-loading div.ecwid-FriendsList-scrollPanel{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_ajax-loader.gif") no-repeat center center}
+div.ecwid-FriendsList-friend{color:#f0f0f0}
+div.ecwid-FriendsList-friend-selected{background-color:#ffffff}
+table.ecwid-CompactGadget{border:solid 1px #d6d3cd}
+td.ecwid-CompactGadget-left-mouseover{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gadget_over_left.gif") repeat-y left center}
+div.ecwid-CompactGadget-left-arrow{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gadget_left_arrow.gif") no-repeat left center}
+td.ecwid-CompactGadget-right-mouseover{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gadget_over_right.gif") repeat-y right center}
+div.ecwid-CompactGadget-right-arrow{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gadget_right_arrow.gif") no-repeat right center}
+div.ecwid-CompactGadget-header{color:#d6d6d6}
+td.ecwid-CompactGadget-openStoreButton-left{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gadget_button_left.gif")}
+td.ecwid-CompactGadget-openStoreButton-center{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gadget_button_center.gif") repeat-x;color:#ffffff}
+td.ecwid-CompactGadget-openStoreButton-right{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gadget_button_right.gif")}
+div.ecwid-CompactGadget-price{color:#a90d04}
+td.ecwid-CompactGadget-table-cell{border:solid 1px #ffffff}
+div.ecwid-CompactGadget-table-productNameLink{color:#d6d6d6}
+div.ecwid-CompactGadget-table-bagIcon{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_gadget_bag.gif") no-repeat center center}
+div.ecwid-productBrowser-cart-termsCheckbox-rollover{background-color:#ffcd38}
+a.ecwid-productBrowser-nav-left{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_prevnext.png") center -22px no-repeat}
+a.ecwid-productBrowser-nav-right{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_prevnext.png") center -66px no-repeat}
+a.ecwid-productBrowser-nav-left:hover,a.ecwid-productBrowser-nav-left:active{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_prevnext.png") center 0px no-repeat}
+a.ecwid-productBrowser-nav-right:hover,a.ecwid-productBrowser-nav-right:active{background:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_prevnext.png") center -44px no-repeat}
+a.ecwid-poweredBy,a.ecwid-poweredBy:active,a.ecwid-poweredBy:visited{color:#d9d9d9}
+div.ecwid-minicart-counter{left:65px !important}
+button.ecwid-AccentedButton{padding-bottom:29px;font-size:17px;line-height:25px;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;background-color:#464646;background-image:-moz-linear-gradient(top, #535353, #323232);background-image:-ms-linear-gradient(top, #535353, #323232);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#535353), to(#323232));background-image:-webkit-linear-gradient(top, #535353, #323232);background-image:-o-linear-gradient(top, #535353, #323232);background-image:linear-gradient(top, #535353, #323232);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='@grad1',endColorstr='@grad2',GradientType=0);border-color:#323232 #323232 #000000;border-color:rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);*background-color:#323232;display:inline-block;margin-bottom:0;color:#333333;text-align:center;text-shadow:0 1px 1px rgba(255,255,255,0.75);vertical-align:middle;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);-moz-box-shadow:inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);box-shadow:inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);cursor:pointer;filter:progid:DXImageTransform.Microsoft.gradient(enabled=false);*margin-left:.3em}
+button.ecwid-AccentedButton:hover,button.ecwid-AccentedButton-disabled{background-color:#e6e6e6;*background-color:#d9d9d9}
+button.ecwid-AccentedButton:hover{color:#333333;text-decoration:none;background-color:#323232;*background-color:#131313;background-image:-moz-linear-gradient(top, #535353, #323232);background-image:-ms-linear-gradient(top, #535353, #323232);background-image:-webkit-gradient(linear, 0 0, 0 100%, from(#535353), to(#323232));background-image:-webkit-linear-gradient(top, #535353, #323232);background-image:-o-linear-gradient(top, #535353, #323232);background-image:linear-gradient(top, #535353, #323232);background-position:0 -15px;-webkit-transition:background-position 0.1s linear;-moz-transition:background-position 0.1s linear;-ms-transition:background-position 0.1s linear;-o-transition:background-position 0.1s linear;transition:background-position 0.1s linear;-webkit-box-shadow:inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);-moz-box-shadow:inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05);box-shadow:inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05)}
+button.ecwid-AccentedButton-ie{height:32px;background-color:#464646;background-image:none;filter:progid:DXImageTransform.Microsoft.gradient(enabled=false)}
+button.ecwid-AccentedButton-ie9minus{height:32px}
+button.ecwid-AccentedButton-ie6{padding-bottom:5px}
+button.ecwid-AccentedButton-ie:hover{background-image:none;filter:progid:DXImageTransform.Microsoft.gradient(enabled=false)}
+button.ecwid-AccentedButton-ie9plus{height:32px;background-color:#464646;background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPgo8bGluZWFyR3JhZGllbnQgaWQ9Imc2MjIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMTAwJSIgeTE9IjEwMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgo8c3RvcCBzdG9wLWNvbG9yPSIjMzEzMTMxIiBvZmZzZXQ9IjAiLz4KPHN0b3Agc3RvcC1jb2xvcj0iIzUyNTI1MiIgb2Zmc2V0PSIxIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9InVybCgjZzYyMikiIC8+Cjwvc3ZnPg==);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#535353', endColorstr='#323232', GradientType=0)}
+button.ecwid-AccentedButton-ie9plus:hover{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPgo8bGluZWFyR3JhZGllbnQgaWQ9Imc2MjIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMTAwJSIgeTE9IjEwMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgo8c3RvcCBzdG9wLWNvbG9yPSIjMzEzMTMxIiBvZmZzZXQ9IjAiLz4KPHN0b3Agc3RvcC1jb2xvcj0iIzUyNTI1MiIgb2Zmc2V0PSIxIi8+CjwvbGluZWFyR3JhZGllbnQ+CjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9InVybCgjZzYyMikiIC8+Cjwvc3ZnPg==);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#535353', endColorstr='#323232', GradientType=0)}
+button.ecwid-AccentedButton-disabled{cursor:default;background-image:none;background-color:#e6e6e6;opacity:0.65;filter:alpha(opacity=65);-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none}
+button.ecwid-AccentedButton,button.ecwid-AccentedButton:hover{text-shadow:0 -1px 0 rgba(0,0,0,0.25);color:#ffffff}
+button.ecwid-AccentedButton-ie9plus{filter:none !important}
+button.ecwid-AccentedButton.active,button.ecwid-AccentedButton:active{background-color:#2d2d2d;background-color:#202020 \9;background-image:none;outline:0;-webkit-box-shadow:inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);-moz-box-shadow:inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05);box-shadow:inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05)}
+div.ecwid-AddToBagButton-up:lang(de),div.ecwid-AddToBagButton-up-hovering:lang(de),div.ecwid-AddToBagButton-ie6-up:lang(de),div.ecwid-AddToBagButton-ie6-up-hovering:lang(de){background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.add_to_bag.png") no-repeat top center}
+div.ecwid-AddToBagButton-down:lang(de),div.ecwid-AddToBagButton-down-hovering:lang(de),div.ecwid-AddToBagButton-ie6-down:lang(de),div.ecwid-AddToBagButton-ie6-down-hovering:lang(de){background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.add_to_bag.png") no-repeat bottom center}
+div.ecwid-AddToBagButton-ie6-up:lang(de),div.ecwid-AddToBagButton-ie6-up-hovering:lang(de),div.ecwid-AddToBagButton-ie6-down:lang(de),div.ecwid-AddToBagButton-ie6-down-hovering:lang(de){background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.add_to_bag.gif")}
+div.ecwid-ContinueShoppingButton-up:lang(de),div.ecwid-ContinueShoppingButton-up-hovering:lang(de),div.ecwid-ContinueShoppingButton-ie6-up:lang(de),div.ecwid-ContinueShoppingButton-ie6-up-hovering:lang(de){background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.continue_shopping.png") no-repeat top center}
+div.ecwid-ContinueShoppingButton-down:lang(de),div.ecwid-ContinueShoppingButton-down-hovering:lang(de),div.ecwid-ContinueShoppingButton-ie6-down:lang(de),div.ecwid-ContinueShoppingButton-ie6-down-hovering:lang(de){background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.continue_shopping.png") no-repeat bottom center}
+div.ecwid-ContinueShoppingButton-ie6-up:lang(de),div.ecwid-ContinueShoppingButton-ie6-up-hovering:lang(de),div.ecwid-ContinueShoppingButton-ie6-down:lang(de),div.ecwid-ContinueShoppingButton-ie6-down-hovering:lang(de){background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.continue_shopping.gif")}
+div.ecwid-productBrowser-cart-checkoutButton-up:lang(de),div.ecwid-productBrowser-cart-checkoutButton-up-hovering:lang(de),div.ecwid-productBrowser-cart-checkoutButton-ie6-up:lang(de),div.ecwid-productBrowser-cart-checkoutButton-ie6-up-hovering:lang(de){background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.checkout.png") no-repeat top center}
+div.ecwid-productBrowser-cart-checkoutButton-down:lang(de),div.ecwid-productBrowser-cart-checkoutButton-down-hovering:lang(de),div.ecwid-productBrowser-cart-checkoutButton-ie6-down:lang(de),div.ecwid-productBrowser-cart-checkoutButton-ie6-down-hovering:lang(de){background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.checkout.png") no-repeat bottom center}
+div.ecwid-productBrowser-cart-checkoutButton-ie6-up:lang(de),div.ecwid-productBrowser-cart-checkoutButton-ie6-up-hovering:lang(de),div.ecwid-productBrowser-cart-checkoutButton-ie6-down:lang(de),div.ecwid-productBrowser-cart-checkoutButton-ie6-down-hovering:lang(de){background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.checkout.gif")}
+div.ecwid-Checkout-placeOrderButton-up:lang(de),div.ecwid-Checkout-placeOrderButton-up-hovering:lang(de),div.ecwid-Checkout-placeOrderButton-ie6-up:lang(de),div.ecwid-Checkout-placeOrderButton-ie6-up-hovering:lang(de){background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.place_order.png") no-repeat top center}
+div.ecwid-Checkout-placeOrderButton-down:lang(de),div.ecwid-Checkout-placeOrderButton-down-hovering:lang(de),div.ecwid-Checkout-placeOrderButton-ie6-down:lang(de),div.ecwid-Checkout-placeOrderButton-ie6-down-hovering:lang(de){background:transparent url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.place_order.png") no-repeat bottom center}
+div.ecwid-Checkout-placeOrderButton-ie6-up:lang(de),div.ecwid-Checkout-placeOrderButton-ie6-up-hovering:lang(de),div.ecwid-Checkout-placeOrderButton-ie6-down:lang(de),div.ecwid-Checkout-placeOrderButton-ie6-down-hovering:lang(de){background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/bootstrap_404040_de.place_order.gif")}
+div.ecwid-productBrowser{padding-top:0px}
+td.ecwid-productBrowser-productsGrid-cell{padding-left:30px;padding-right:30px}
+td.ecwid-productBrowser-productsGrid-cell{padding-top:0px;padding-bottom:0px}
+div.ecwid-categories{display:block}
+div#Categories-1,div.ecwid-categories{background-color:#f0f0f0}
+span.ecwid-categories-category{color:#353535}
+gwt-MenuItem-selected span.ecwid-categories-category,div.ecwid-categoriesMenuBar td.gwt-MenuItem-current span.ecwid-categories-category,td.ecwid-categories-vertical-table-cell-selected span.ecwid-categories-category,table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected span.ecwid-categories-category{color:#999999}
+span.ecwid-categories-category{font-size:14px}
+div.ecwid-categoriesMenuBar span.ecwid-categories-category{font-size:14px}
+div.ecwid-categories-MenuBarPopup div.ecwid-categoriesMenuBar span.ecwid-categories-category{font-size:14px}
+span.ecwid-categories-category{font-family:'Raleway', 'sans-serif'}
+div.ecwid-productBrowser-auth,table.ecwid-Checkout-blockTitle button,div.ecwid-Checkout-PasswordBlock,div.ecwid-Checkout-blockTitle button.gwt-Button{display:none}
+div.ecwid-results-topPanel-viewAsPanel{display:none !important}
+div.ecwid-minicart,div.ecwid-minicart.ecwid-minicart-floating,div.ecwid-minicart:lang(de),div.ecwid-minicart.ecwid-minicart-floating:lang(de){background-image:url("https://cdn0.e-shopdesigner.com/2563453-primecomputershop/minicart_v2.png")}
+div.ecwid-minicart,div.ecwid-minicart.ecwid-minicart-floating{width:850px}
+div.ecwid-minicart,div.ecwid-minicart.ecwid-minicart-floating{height:45px}
+div.ecwid-minicart-counter,div.ecwid-minicart.ecwid-minicart-floating div.ecwid-minicart-counter{display:none;color:#353535;margin-left:0px;top:35px;font-size:13px;font-family:'Raleway', 'sans-serif'}
+div.ecwid-minicart-caption,div.ecwid-minicart.ecwid-minicart-floating div.ecwid-minicart-caption{display:none;color:#353535;left:0px;top:-4px;font-size:13px;font-family:'Raleway', 'sans-serif'}
+div.ecwid-minicart-label,div.ecwid-minicart.ecwid-minicart-floating div.ecwid-minicart-label{left:353px;top:6px}
+div.ecwid-minicart-label .ecwid-minicart-label-text,div.ecwid-minicart.ecwid-minicart-floating div.ecwid-minicart-label .ecwid-minicart-label-text{color:#353535;font-size:13px;font-family:'Raleway', 'sans-serif'}
+div.ecwid-minicart-link,div.ecwid-minicart.ecwid-minicart-floating div.ecwid-minicart-link{left:0px;top:118px}
+div.ecwid-minicart-link *,div.ecwid-minicart.ecwid-minicart-floating div.ecwid-minicart-link *{color:#353535;font-size:11px;font-family:'Raleway', 'sans-serif'}
+div.ecwid-productBrowser-head{color:#353535;font-size:14px;font-family:'Raleway', 'sans-serif'}
+div.ecwid-productBrowser-productsGrid-productBottomFragment div.ecwid-productBrowser-productNameLink a,div.ecwid-productBrowser-productsGrid-productBottomFragment div.ecwid-productBrowser-productNameLink a:active,div.ecwid-productBrowser-productsGrid-productBottomFragment div.ecwid-productBrowser-productNameLink a:visited,div.ecwid-productBrowser-productsList-details div.ecwid-productBrowser-productNameLink a,div.ecwid-productBrowser-productsList-details div.ecwid-productBrowser-productNameLink a:active,div.ecwid-productBrowser-productsList-details div.ecwid-productBrowser-productNameLink a:visited,div.ecwid-productBrowser-productsTable div.ecwid-productBrowser-productNameLink a,div.ecwid-productBrowser-productsTable div.ecwid-productBrowser-productNameLink a:active,div.ecwid-productBrowser-productsTable div.ecwid-productBrowser-productNameLink a:visited,div.ecwid-productBrowser-subcategories-categoryName,div.ecwid-productBrowser-subcategories-categoryName span.gwt-InlineLabel{color:#353535;font-family:'Raleway', 'sans-serif';font-size:14px}
+div.ecwid-productBrowser-productsGrid-productBottomFragment div.ecwid-productBrowser-productNameLink{text-align:center}
+div.ecwid-productBrowser-subcategories-categoryName{text-align:center}
+div.ecwid-productBrowser-cart div.ecwid-productBrowser-productNameLink a,div.ecwid-productBrowser-cart div.ecwid-productBrowser-productNameLink a:active,div.ecwid-productBrowser-cart div.ecwid-productBrowser-productNameLink a:visited{color:#353535;font-size:13px;font-family:'Raleway', 'sans-serif'}
+.ecwid div.ecwid-productBrowser-details-descr p,.ecwid div.ecwid-productBrowser-details-descr span,.ecwid div.ecwid-productBrowser-details-descr div,.ecwid div.ecwid-productBrowser-details-descr sup,.ecwid div.ecwid-productBrowser-details-descr sub,.ecwid div.ecwid-productBrowser-details-descr address,.ecwid div.ecwid-productBrowser-details-descr ul,.ecwid div.ecwid-productBrowser-details-descr ol,.ecwid div.ecwid-productBrowser-details-descr dl,.ecwid div.ecwid-productBrowser-details-descr ul li,.ecwid div.ecwid-productBrowser-details-descr ol li,.ecwid div.ecwid-productBrowser-details-descr dl dt,.ecwid div.ecwid-productBrowser-details-descr dl dd,.ecwid div.ecwid-productBrowser-details-descr hr,.ecwid div.ecwid-productBrowser-details-descr blockquote,.ecwid div.ecwid-productBrowser-details-descr a,.ecwid div.ecwid-productBrowser-categoryDescription p,.ecwid div.ecwid-productBrowser-categoryDescription span,.ecwid div.ecwid-productBrowser-categoryDescription div,.ecwid div.ecwid-productBrowser-categoryDescription sup,.ecwid div.ecwid-productBrowser-categoryDescription sub,.ecwid div.ecwid-productBrowser-categoryDescription address,.ecwid div.ecwid-productBrowser-categoryDescription ul,.ecwid div.ecwid-productBrowser-categoryDescription ol,.ecwid div.ecwid-productBrowser-categoryDescription dl,.ecwid div.ecwid-productBrowser-categoryDescription ul li,.ecwid div.ecwid-productBrowser-categoryDescription ol li,.ecwid div.ecwid-productBrowser-categoryDescription dl dt,.ecwid div.ecwid-productBrowser-categoryDescription dl dd,.ecwid div.ecwid-productBrowser-categoryDescription hr,.ecwid div.ecwid-productBrowser-categoryDescription blockquote,.ecwid div.ecwid-productBrowser-categoryDescription a{font-size:13px;font-family:'Raleway', 'sans-serif'}
+.ecwid div.ecwid-productBrowser-details-descr h1,.ecwid div.ecwid-productBrowser-details-descr h2,.ecwid div.ecwid-productBrowser-details-descr h3,.ecwid div.ecwid-productBrowser-details-descr h4,.ecwid div.ecwid-productBrowser-details-descr h5,.ecwid div.ecwid-productBrowser-details-descr h6,.ecwid div.ecwid-productBrowser-categoryDescription h1,.ecwid div.ecwid-productBrowser-categoryDescription h2,.ecwid div.ecwid-productBrowser-categoryDescription h3,.ecwid div.ecwid-productBrowser-categoryDescription h4,.ecwid div.ecwid-productBrowser-categoryDescription h5,.ecwid div.ecwid-productBrowser-categoryDescription h6{font-family:'Raleway', 'sans-serif'}
+.ecwid div.ecwid-productBrowser-details-descr h1,.ecwid div.ecwid-productBrowser-categoryDescription h1{font-size:26px}
+.ecwid div.ecwid-productBrowser-details-descr h2,.ecwid div.ecwid-productBrowser-categoryDescription h2{font-size:24px}
+.ecwid div.ecwid-productBrowser-details-descr h3,.ecwid div.ecwid-productBrowser-categoryDescription h3{font-size:22px}
+.ecwid div.ecwid-productBrowser-details-descr h4,.ecwid div.ecwid-productBrowser-categoryDescription h4{font-size:20px}
+.ecwid div.ecwid-productBrowser-details-descr h5,.ecwid div.ecwid-productBrowser-categoryDescription h5{font-size:18px}
+.ecwid div.ecwid-productBrowser-details-descr h6,.ecwid div.ecwid-productBrowser-categoryDescription h6{font-size:16px}
+div.ecwid-productBrowser-sku,div.ecwid-productBrowser-cart div.ecwid-productBrowser-sku,div.ecwid-productBrowser-productsList-details div.ecwid-productBrowser-sku{color:#4b5660}
+div.ecwid-productBrowser-sku,td.ecwid-productBrowser-productsTable-sku,span.ecwid-Invoice-productDescr-sku,div.ecwid-OrdersList-OrderBox-sku{display:none !important}
+div.ecwid-productBrowser-cart-optionsList span.gwt-InlineLabel{display:none}
+div.ecwid-productBrowser-cart-optionsList span.gwt-InlineHTML{display:block}
+div.ecwid-productBrowser-cart-optionsList button.gwt-Button{margin-left:0px}
+span.ecwid-productBrowser-cart-optionsList-name{font-weight:normal}
+span.ecwid-Invoice-productDescr-option{display:block}
+div.ecwid-Invoice-productDescr-options span.ecwid-Invoice-productDescr-separator{display:none}
+span.ecwid-Invoice-productDescr-option-name{font-weight:normal}
+div.ecwid-productBrowser-price,div.ecwid-productBrowser-cart-totalAmount{color:#353535 !important}
+div.ecwid-productBrowser-price,div.ecwid-productBrowser-cart-totalAmount{font-family:'Raleway', 'sans-serif'}
+div.ecwid-productBrowser-productsGrid-productBottomFragment div.ecwid-productBrowser-price,div.ecwid-productBrowser-productsList-details div.ecwid-productBrowser-price,div.ecwid-productBrowser-productsTable div.ecwid-productBrowser-price{font-size:16px}
+div.ecwid-productBrowser-cart-totalAmount{font-size:16px}
+div.ecwid-productBrowser-backgroundedPanelInner div.ecwid-productBrowser-price{font-size:18px;font-weight:bold}
+div.ecwid-productBrowser-cart table.ecwid-productBrowser-cart-itemsTable div.ecwid-productBrowser-price{color:#353535 !important}
+div.ecwid-productBrowser-cart table.ecwid-productBrowser-cart-itemsTable div.ecwid-productBrowser-price{font-family:'Raleway', 'sans-serif'}
+div.ecwid-productBrowser-cart-subtotalAmount,div.ecwid-productBrowser-cart-shippingAmount,div.ecwid-productBrowser-cart-taxAmount{font-family:'Raleway', 'sans-serif'}
+span.ecwid-BuyNow-outOfStockLabel{font-size:15px}
+span.ecwid-BuyNow-outOfStockLabel{font-family:'Raleway', 'sans-serif'}
+div.ecwid-form,td.ecwid-Invoice-edgeCell,td.ecwid-Invoice-cell,div.ecwid-amexPaymentForm,div.ecwid-ppReview-block{background-color:#ffffff}
+div.ecwid-Checkout-blockTitle,table.ecwid-Checkout-blockTitle div.gwt-Label,table.ecwid-Checkout-blockTitle div.gwt-HTML{font-size:18px;font-family:'Raleway', 'sans-serif'}
+tr.ecwid-productBrowser-cart-itemsTable-row-selected,td.ecwid-productBrowser-cart-itemsTable-cell-selected{background-color:#ffffff}
+div.ecwid-productBrowser-backgroundedPanel{background-color:#ffffff}
+.ecwid,.ecwid ul,.ecwid ol,.ecwid dl,.ecwid ul li,.ecwid ol li,.ecwid dl dt,.ecwid dl dd,.ecwid hr,.ecwid blockquote,.ecwid h1,.ecwid h2,.ecwid h3,.ecwid h4,.ecwid h5,.ecwid h6,.ecwid p,.ecwid sup,.ecwid sub,.ecwid address{color:353535;font-size:13px;font-family:'Raleway', 'sans-serif'}
+.ecwid a,.ecwid a:active,.ecwid a:visited,div.ecwid-results-topPanel div.ecwid-results-topPanel-viewAsPanel-link,div.ecwid-productBrowser-categoryPath a,div.ecwid-productBrowser-categoryPath a:active,div.ecwid-productBrowser-categoryPath a:visited,div.popupContent .ecwid a,div.popupContent .ecwid a:active,div.popupContent .ecwid a:visited,span.ecwid-minicart-mini-count{color:#353535}
+button.gwt-Button,#wrapper button.gwt-Button,div.ecwid-popup button.gwt-Button{color:#353535}
+div.ecwid-productBrowser-details-optionPanel label.ecwid-fieldLabel{font-family:'Raleway', 'sans-serif';font-size:13px;font-weight:normal}
+select.ecwid-productBrowser-details-optionSelectBox,select.ecwid-productBrowser-details-optionSelectBox option{font-family:'Raleway', 'sans-serif';font-size:13px;color:#353535}
+div.ecwid-productBrowser-details-qtyLabel{display:inline;font:normal 13px Raleway, sans-serif;color:#000000;vertical-align:middle;margin-right:3px}
+input.ecwid-productBrowser-details-qtyTextField{box-sizing:content-box;width:40px;margin-left:8px;vertical-align:middle;border:solid 0.5px #898989}
+div.ecwid-productBrowser-cart div.ecwid-productBrowser-price{font-family:'Raleway', 'sans-serif';font-size:13px;color:#353535}
+div.ecwid-productBrowser-cart-termsCheckbox{padding:7px 3px;font:normal 13px Raleway, sans-serif;text-align:center;margin:0 -15px 9px -15px}
+span.ecwid-shippingOption-rate{margin-left:15px;font-weight:normal;visibility:hidden;white-space:nowrap}
+td.ecwid-productBrowser-cart-itemsTable-headerCell{font:normal 13px Raleway, sans-serif;padding:0 20px;color:#353535;border-bottom:solid 1px #c4c4c4}
+div.ecwid-productBrowser-cart input.ecwid-productBrowser-cart-qtyTextField{box-sizing:content-box;font:normal 13px Raleway, sans-serif;color:#353535;width:40px;padding:4px 3px 3px}
+div.ecwid-productBrowser-cart-qtyTextField-multiplication{font:normal 13px Raleway, sans-serif;color:#353535;padding:6px 5px 0 0}
+div.ecwid-productBrowser-cart div.ecwid-productBrowser-sku{font:normal 13px Raleway, sans-serif;color:#353535;display:inline}
+span.ecwid-productBrowser-cart-weight{font:normal 13px Raleway, sans-serif;color:#353535;white-space:nowrap;padding-left:15px}
+div.ecwid-productBrowser-cart-itemsTable-price-compact-times{font-family:'Raleway', 'sans-serif';font-size:13px;font-weight:normal;left:-15px;position:absolute;top:-6px;color:#353535}
+div.ecwid-productBrowser-cart-optionsList{font:normal 13px Raleway, sans-serif;color:#353535;padding-top:6px;vertical-align:middle}
+div.ecwid-productBrowser-cart-extraFieldsList{font:normal 13px Raleway, sans-serif;color:#353535;vertical-align:middle;max-width:300px}
+div.ecwid-productBrowser-cart-pricePerUnitList{font:normal 13px Raleway, sans-serif;color:#353535;vertical-align:middle;margin-top:2px}
+table.ecwid-productBrowser-cart-subtotalAmountPanel td,table.ecwid-productBrowser-cart-shippingAmountPanel td,table.ecwid-productBrowser-cart-taxAmountPanel td{padding-bottom:10px;font:normal 13px Raleway, sans-serif;color:#353535}
+table.ecwid-productBrowser-cart-totalAmountPanel td{padding:15px 0 25px 0;font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-cart-subtotalLabel,div.ecwid-productBrowser-cart-shippingLabel,div.ecwid-productBrowser-cart-taxLabel{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-cart-totalLabel{font:bold 13px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-cart-subtotalAmount,div.ecwid-productBrowser-cart-subtotalAmountMinus,div.ecwid-productBrowser-cart-shippingAmount,div.ecwid-productBrowser-cart-taxAmount{font:normal 13px Raleway, sans-serif;color:#353535;white-space:nowrap;height:20px}
+div.ecwid-productBrowser-cart-totalAmount{font:bold 13px Raleway, sans-serif;color:#353535;white-space:nowrap}
+div.ecwid-productBrowser-cart-asterisk{font:normal 16px Raleway, sans-serif;color:#353535}
+table.ecwid-productBrowser-cart-shippingAmountPanel span.ecwid-EcwidHintingLink{font-size:13px}
+div.ecwid-productBrowser-cart-estimationNote{font:normal 13px Raleway, sans-serif;color:#353535;padding-bottom:4px}
+div.ecwid-productBrowser-cart-checkoutOptionsSeparator{font:normal 13px Raleway, sans-serif;color:#353535;padding:10px}
+div.ecwid-productBrowser-cart-extraFieldsList{font:normal 13px Raleway, sans-serif;color:#353535;vertical-align:middle;max-width:300px}
+a.ecwid-minicart-mini-link{font:normal 13px Raleway, sans-serif;color:#353535}
+.ecwid-minicart-mini-items,div.ecwid-minicart-mini-total{font:normal 11px Raleway, sans-serif;color:#353535}
+span.ecwid-minicart-mini-overlay-count{font:normal 11px Raleway, sans-serif;color:#353535}
+.ecwid-minicart-mini-count{font:normal 11px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-cart-hint{font:normal 11px Raleway, sans-serif;color:#353535;text-align:left}
+div.ecwid-productBrowser-cart-chooseLocationPopup label.ecwid-fieldLabel{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-cart-chooseLocationPopup-deliveryMethodLabel{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-cart-chooseLocationPopup span.ecwid-shippingOption{margin:10px 0;font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-cart-chooseLocationPopup span.ecwid-shippingOption-rate{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-popup-headLabel{font:normal 16px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-CartPage div.ecwid-productBrowser-productNameLink a,div.ecwid-productBrowser-CartPage div.ecwid-productBrowser-productNameLink a:active,div.ecwid-productBrowser-CartPage div.ecwid-productBrowser-productNameLink a:visited{font:normal 15px Raleway, sans-serif;color:#353535}
+div.ecwid-Checkout-blockTitle,table.ecwid-Checkout-blockTitle div.gwt-Label,table.ecwid-Checkout-blockTitle div.gwt-HTML{font:normal 16px Raleway, sans-serif;color:#353535}
+div.ecwid-Checkout-PasswordBlock-tip{font:normal 13px Raleway, sans-serif;color:#353535;max-width:505px}
+div.ecwid-PaymentMethodDetailsBlock-fields div.gwt-Label{font:normal 13px Raleway, sans-serif;color:#353535;padding-left:5px}
+div.ecwid-Invoice-cell-title{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-Checkout-BreadCrumbs-link{font:normal 13px Raleway, sans-serif;color:#353535;cursor:default;text-decoration:none;white-space:nowrap;padding:0;margin-left:10px;margin-right:10px;vertical-align:top;display:inline-block;*display:inline;*zoom:1}
+div.ecwid-Checkout-EmailBlock div.ecwid-fieldWrapper label.ecwid-fieldLabel{font:normal 13px Raleway, sans-serif;color:#353535;white-space:normal;width:92px}
+div.ecwid-PaymentMethodExtraDetailsBlockIDEALBanksLbl{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-PaymentMethodExtraDetailsBlockIDEALBanksLbl-over{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-cart-asterisk{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-cart-estimationNote span{font:normal 13px Raleway, sans-serif;color:#353535}
+input.gwt-TextBox,input.gwt-PasswordTextBox,select.gwt-ListBox,textarea.gwt-TextArea,input.gwt-DateBox{padding:3px 5px;font:normal 13px Raleway, sans-serif;color:#353535;outline:none;-moz-user-select:text}
+.ecwid-shippingOptions-List span.ecwid-shippingOption label{font:normal 13px Raleway, sans-serif;color:#353535;margin-left:20px;float:none;max-width:280px}
+div.ecwid-productBrowser-head{color:#353535;font-size:16px;font-family:'Raleway', 'sans-serif'}
+label.ecwid-fieldLabel{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-productBrowser-categoryPath{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-PaymentMethodsBlock-PaymentOption span.gwt-RadioButton{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-note{font:normal 11px Raleway, sans-serif;color:#353535}
+div.ecwid-Invoice-block{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-Invoice-blockTitle{font:normal 13px Raleway, sans-serif;color:#353535;padding-bottom:10px}
+td.ecwid-Invoice-Header-OrderId{font:normal 13px Raleway, sans-serif;color:#353535}
+td.ecwid-Invoice-Header-timestamp{font:normal 13px Raleway, sans-serif;color:#353535;white-space:nowrap;text-align:left}
+div.ecwid-Invoice-Summary-label,div.ecwid-Invoice-Summary-value{font:normal 13px Raleway, sans-serif;color:#353535;white-space:nowrap;padding:5px 10px}
+div.ecwid-Invoice-Summary-label-price,div.ecwid-Invoice-Summary-value-price{font:bold 13px Raleway, sans-serif;color:#353535;padding-top:15px;padding-bottom:15px}
+div.ecwid-Invoice-productName,div.ecwid-Invoice-productName a,div.ecwid-Invoice-productName a:active,div.ecwid-Invoice-productName a:visited{font:normal 16px Raleway, sans-serif;color:#353535;text-decoration:none;margin-bottom:5px}
+div.ecwid-Invoice-productDescr{font:normal 13px Raleway, sans-serif;color:#353535;padding-bottom:5px;color:#4b4b4b}
+div.ecwid-Invoice-productPrice{font:bold 13px Raleway, sans-serif;color:#353535;padding-bottom:12px}
+div.ecwid-Invoice-header-placeOrder div.gwt-Label,div.ecwid-Invoice-footer-placeOrder div.gwt-Label,td.ecwid-Invoice-header-orderConfirmation-text,td.ecwid-Invoice-footer-orderConfirmation-text{font:normal 13px Raleway, sans-serif;color:#353535;text-align:left}
+td.ecwid-Invoice-header-orderConfirmation-text a,td.ecwid-Invoice-header-orderConfirmation-text a:active,td.ecwid-Invoice-header-orderConfirmation-text a:visited,td.ecwid-Invoice-footer-orderConfirmation-text a,td.ecwid-Invoice-footer-orderConfirmation-text a:active,td.ecwid-Invoice-footer-orderConfirmation-text a:visited{font:normal 13px Raleway, sans-serif;color:#353535;text-decoration:underline}
+div.ecwid-Invoice-share-textPanel-label,div.ecwid-Invoice-share-panel-right-column,div.ecwid-Invoice-share-panel-thumbnail,div.ecwid-Invoice-share-textPanel-product-panel,select.ecwid-bottomDotted-list,div.ecwid-Invoice-share-textPanel-product-label,div.ecwid-Invoice-share-textPanel-list-item-label{font:normal 13px Raleway, sans-serif;color:#353535}
+div.ecwid-Invoice-share-buttonPanel-button{font:normal 13px Raleway, sans-serif;color:#353535;margin:3px 16px 3px 0;float:none;display:inline-block;*display:inline;zoom:1}
+td.ecwid-Invoice-itemsTable-headerCell{font:normal 13px Raleway, sans-serif;color:#353535;padding:0 20px;color:#999}
+table.ecwid-Invoice-itemsTable .ecwid-productBrowser-price,table.ecwid-Invoice-itemsTable .ecwid-Invoice-qtyLabel{font:normal 13px Raleway, sans-serif;color:#353535}
+table.ecwid-Invoice-itemsTable .ecwid-productBrowser-sku{color:#4B4B4B;display:inline;font:normal 13px Raleway, sans-serif;color:#353535}
+table.ecwid-Invoice-itemsTable .ecwid-Invoice-pricePerUnitList{font:normal 13px Raleway, sans-serif;color:#353535;vertical-align:middle;margin-top:2px}
+table.ecwid-Invoice-itemsTable .ecwid-Invoice-optionsList{font:normal 13px Raleway, sans-serif;color:#353535;padding-top:15px;vertical-align:middle}
+div.ecwid-Invoice-share-textPanel-product-panel td.ecwid-DropdownBox-content{font:normal 13px Raleway, sans-serif;color:#353535;background-color:#ffffff;padding:2px 5px !important;border:0 !important;overflow:hidden;white-space:nowrap}
+div.ecwid-Person{font:normal 13px Raleway, sans-serif;color:#353535}
+td.ecwid-Invoice-footer-orderConfirmation-text span#printMessage{display:none}
+div#Categories-1,div.ecwid-categories{background-color:#ffffff}
+span.ecwid-categories-category{color:#353535}
+gwt-MenuItem-selected span.ecwid-categories-category,div.ecwid-categoriesMenuBar td.gwt-MenuItem-current span.ecwid-categories-category,td.ecwid-categories-vertical-table-cell-selected span.ecwid-categories-category,table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected span.ecwid-categories-category{color:#ffffff}
+span.ecwid-categories-category{font-size:14px}
+div.ecwid-categoriesMenuBar span.ecwid-categories-category{font-size:14px}
+div.ecwid-categories-MenuBarPopup div.ecwid-categoriesMenuBar span.ecwid-categories-category{font-size:15px}
+div.ecwid-categoriesMenuBar td.gwt-MenuItem-selected span.ecwid-categories-category,div.ecwid-categoriesMenuBar td.gwt-MenuItem-current span.ecwid-categories-category,td.ecwid-categories-vertical-table-cell-selected span.ecwid-categories-category,table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected span.ecwid-categories-category{color:#353535}
+div.ecwid-productBrowser-nav{display:none}
+table.ecwid-categoriesTabBar div.tabMiddleCenterInner{width:125px !important;text-align:center}
+div.ecwid-productBrowser-details-inStockLabel{font:normal 13px Raleway, sans-serif;color:#353535;visibility:hidden}
+table.ecwid-categoriesTabBar div.gwt-TabBarFirst,table.ecwid-categoriesTabBar div.gwt-TabBarRest,table.ecwid-categoriesTabBar table.gwt-TabBarItem,div.ecwid-categories-horizontal-menuBarContainer,td.ecwid-categories-vertical-table-cell,div.ecwid-categories-MenuBarPopup div.menuSeparatorInner{border:none;border-bottom:none}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabTopLeft{background:none}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabTopCenter{background:none}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabTopRight{background:none}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabMiddleLeft{background:none}
+table.ecwid-categoriesTabBar table.gwt-TabBarItem-selected td.tabMiddleRight{background:none}
+#content-area{margin-top:0px !important}
+table.ecwid-AddressForm-state{display:none}
