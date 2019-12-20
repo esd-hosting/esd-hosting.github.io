@@ -1,4 +1,19 @@
+/* current custom CSS for store 7869206 2019-12-20 */
+div#yards-output,
+.ecwid-productBrowser-details-qtyPanel { float: left !important; clear: both !important; }
+.ecwid-productBrowser-details-inTheBag { float: left !important; clear: both !important; }
+span.ecwid-Invoice-productDescr-sku { display: initial !important; }
+div.ecwid-productBrowser-sku,
+td.ecwid-productBrowser-productsTable-sku,
+span.ecwid-Invoice-productDescr-sku,
+div.ecwid-OrdersList-OrderBox-sku { display: initial !important; }
+.ecwid-productBrowser-details-like { display: none !important; }
+.ecwid-productBrowser-categoryDescription,
+.ecwid-productBrowser-details-descr,
+.ecwid-productBrowser-subcategories-categoryName { line-height: 1.25; }
+nav.horizontal-menu * { color: #704997 !important; }
 
+/* original Theme Designer App Tweak CSS for store 7869206 2019-12-20 */
 #tw_content,
 #tw_content #content-area,
 div.ecwid-productBrowser,
